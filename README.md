@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20my%20Space!&fontSize=70&animation=fadeIn" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7CF46&center=true&vCenter=true&width=435&lines=AISW+Student;Python+%26+C+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7CF46&center=true&vCenter=true&width=435&lines=AISW+Student;Python+%26+C+Developer;AISW" alt="Typing SVG" />
 </div>
 
 <br />
@@ -37,3 +37,6 @@
 <a href="yenxnrl" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   yenxnrl
 </p>
+
+## 🐍 My Contribution Snake
+![snake gif](https://github.com/[kyj070704]/[kyj070704]/blob/output/github-contribution-grid-snake.gif)
